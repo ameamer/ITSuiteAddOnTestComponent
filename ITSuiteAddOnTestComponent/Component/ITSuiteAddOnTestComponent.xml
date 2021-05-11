@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ITSUITECOMPONENT>
+ <PACKET>
+  <NAME>Componente di test</NAME>
+  <LINK>itsuiteaddontest.aspx</LINK>
+  <DEV>Ame Amer</DEV>
+  <DEVADDRESS>http://www.ameamer.com/</DEVADDRESS>
+  <INSTALLPATH>ITSuiteAddOnTestComponent</INSTALLPATH>
+  <TICKETUSERS>1</TICKETUSERS>
+  <CUSTOMERUSERS>1</CUSTOMERUSERS>
+  <FILES>
+    itsuiteaddontest.aspx|
+    itsuiteaddontest.aspx.vb|
+    ITSuiteAddOnTestComponent.xml|
+    itsuiteaddontestEN.resx|
+    itsuiteaddontestIT.resx
+  </FILES>
+ </PACKET>
+</ITSUITECOMPONENT>
